@@ -1,1 +1,2 @@
-# Profit-and-Sales
+Profit & Sales Analysis Dashboard (Power BI)
+This project features an interactive Profit & Sales Analysis Dashboard built in Power BI. It tracks and visualizes key business metrics including total sales, profit, profit margin, regional and segment breakdowns, monthly gross sales trends, and product-wise sales contributions. The dashboard uses charts, tables, and filters for fast business insights and decision-making.
